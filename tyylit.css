@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(137, 43, 226, 0.61);
+    font-family: 'American Typewriter', serif;
+    color: blue;
+}
+
+h1 {
+    font-family: 'American Typewriter', serif;
+    display: block;
+    background-color: blue;
+    padding: 20px;
+    color: rgb(189, 189, 177);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: aquamarine;
+    padding: 20px;
+    display: block;
+}
+
+#lista2 {
+    padding: 10px;
+}
+
+p {
+    display: flex;;
+}
+
+.button {
+    background-color:brown;
+    border: none;
+    color: rgb(189, 189, 177);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+input {
+    width: 433px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
